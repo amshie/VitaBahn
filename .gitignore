@@ -1,0 +1,14 @@
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+
+# Netlify CLI
+.netlify/
+
+# Node (only if you add tooling later)
+node_modules/
+
+# Claude Code local settings
+.claude/settings.local.json
